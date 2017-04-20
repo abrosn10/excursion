@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+
+p{
+  font-family: Veranda;
+  font-size: 21px;
+  color: Gray;
+}
+a{
+  font-family: Veranda;
+  font-size: 16px;
+  color: aquamarine;
+}
+
+h1{
+  font-family: Veranda;
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2{
+  font-family: Veranda;
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#footer p{
+  text-align: right;
+}
